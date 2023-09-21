@@ -8,3 +8,5 @@ Model: ML Classification model
 Used Algorithm: Random Forest
 
 Accuracy: 91%
+
+Used technical skills: Python,Numpy,Pandas,sklearn,seaborn,matplotlib
